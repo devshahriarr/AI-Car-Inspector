@@ -1,0 +1,291 @@
+2025-11-05 15:24:11,993 - INFO: SQLAlchemy database tables created/verified.
+2025-11-05 15:24:11,996 - INFO: Successfully connected to Redis.
+2025-11-05 15:46:58,329 - INFO: Sending image to GPT-4o Vision...
+2025-11-05 15:47:08,332 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 15:47:08,341 - INFO: GPT-4o Vision responded in 10.01s
+2025-11-05 15:47:08,341 - INFO: Session 68a23c4c-92ae-42e9-8781-bcc170c2a33f saved with TTL set to 3600s.
+2025-11-05 15:47:08,342 - ERROR: Analysis failed: 'Engineer' object is not subscriptable
+2025-11-05 15:51:07,043 - INFO: Sending image to GPT-4o Vision...
+2025-11-05 15:51:20,557 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 15:51:20,559 - INFO: GPT-4o Vision responded in 13.52s
+2025-11-05 15:51:20,562 - INFO: Session b082a295-0ef6-403b-a080-938806c76228 saved with TTL set to 3600s.
+2025-11-05 15:51:20,563 - ERROR: Analysis failed: 'Engineer' object is not subscriptable
+2025-11-05 15:56:54,471 - INFO: Application shutdown.
+2025-11-05 15:56:55,134 - INFO: SQLAlchemy database tables created/verified.
+2025-11-05 15:56:55,135 - INFO: Successfully connected to Redis.
+2025-11-05 16:03:41,370 - INFO: Application shutdown.
+2025-11-05 16:03:42,031 - INFO: SQLAlchemy database tables created/verified.
+2025-11-05 16:03:42,032 - INFO: Successfully connected to Redis.
+2025-11-05 16:04:41,467 - INFO: Sending image to GPT-4o Vision...
+2025-11-05 16:04:56,775 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 16:04:56,791 - INFO: GPT-4o Vision responded in 15.32s
+2025-11-05 16:04:56,792 - INFO: Session a37a6838-bbc8-49e8-a0e5-058363afbf59 saved with TTL set to 3600s.
+2025-11-05 16:06:02,512 - INFO: Application shutdown.
+2025-11-05 16:06:03,188 - INFO: SQLAlchemy database tables created/verified.
+2025-11-05 16:06:03,189 - INFO: Successfully connected to Redis.
+2025-11-05 16:06:18,841 - INFO: Application shutdown.
+2025-11-05 16:06:19,492 - INFO: SQLAlchemy database tables created/verified.
+2025-11-05 16:06:19,493 - INFO: Successfully connected to Redis.
+2025-11-05 16:07:40,880 - INFO: Sending image to GPT-4o Vision...
+2025-11-05 16:07:48,269 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 16:07:48,283 - INFO: GPT-4o Vision responded in 7.40s
+2025-11-05 16:07:48,285 - INFO: Session e12545eb-e0b0-4835-8080-f1da98f39f6c saved with TTL set to 3600s.
+2025-11-05 16:12:42,614 - INFO: Application shutdown.
+2025-11-05 16:12:43,299 - INFO: SQLAlchemy database tables created/verified.
+2025-11-05 16:12:43,300 - INFO: Successfully connected to Redis.
+2025-11-05 16:13:22,125 - INFO: Application shutdown.
+2025-11-05 16:13:22,822 - INFO: SQLAlchemy database tables created/verified.
+2025-11-05 16:13:22,823 - INFO: Successfully connected to Redis.
+2025-11-05 16:13:55,445 - INFO: Sending image to GPT-4o Vision...
+2025-11-05 16:14:05,321 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 16:14:05,327 - INFO: GPT-4o Vision responded in 9.88s
+2025-11-05 16:14:05,328 - INFO: Session 6ad56852-d844-47de-9347-0f8a8738f547 saved with TTL set to 3600s.
+2025-11-05 16:15:50,063 - INFO: Session 6ad56852-d844-47de-9347-0f8a8738f547: Sending 3 messages to GPT-4o...
+2025-11-05 16:15:51,828 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 16:15:51,831 - INFO: Session 6ad56852-d844-47de-9347-0f8a8738f547 saved with TTL set to 3600s.
+2025-11-05 16:25:44,791 - INFO: Session 6ad56852-d844-47de-9347-0f8a8738f547: Sending 5 messages to GPT-4o...
+2025-11-05 16:25:46,604 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-05 16:25:46,608 - INFO: Session 6ad56852-d844-47de-9347-0f8a8738f547 saved with TTL set to 3600s.
+2025-11-05 16:27:57,554 - INFO: Application shutdown.
+2025-11-06 09:22:17,877 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 09:22:17,881 - INFO: Successfully connected to Redis.
+2025-11-06 09:30:39,437 - INFO: Analyzing text-based report with GPT-4o...
+2025-11-06 09:30:48,200 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 09:30:48,207 - INFO: Session 9e842b9a-c3bb-49c4-bc84-59b055d06b20 saved with TTL set to 3600s.
+2025-11-06 09:30:48,207 - ERROR: Critical Analysis failed for engineer eng1@gmail.com: 'summary'
+2025-11-06 09:31:13,607 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 09:31:25,198 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 09:31:25,201 - INFO: GPT-4o Vision responded in 11.59s
+2025-11-06 09:31:25,203 - INFO: Session 36301d83-57e4-43c0-90af-cb6bbc73d3f6 saved with TTL set to 3600s.
+2025-11-06 09:32:25,538 - INFO: Session 36301d83-57e4-43c0-90af-cb6bbc73d3f6: Sending 3 messages to GPT-4o...
+2025-11-06 09:32:28,181 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 09:32:28,190 - INFO: Session 36301d83-57e4-43c0-90af-cb6bbc73d3f6 saved with TTL set to 3600s.
+2025-11-06 09:33:14,823 - INFO: Analyzing text-based report with GPT-4o...
+2025-11-06 09:36:42,645 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 09:36:42,893 - INFO: Session d1ffc439-50f6-43fb-92d4-b7d20c7f740c saved with TTL set to 3600s.
+2025-11-06 09:36:42,893 - ERROR: Critical Analysis failed for engineer eng1@gmail.com: 'summary'
+2025-11-06 09:40:01,489 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 09:40:01,608 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 09:40:01,734 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 09:40:01,942 - INFO: Analyzing text-based report with GPT-4o...
+2025-11-06 09:40:54,225 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 09:40:54,243 - INFO: Session fd119e56-1d1c-432a-b718-45fc4e4dd00b saved with TTL set to 3600s.
+2025-11-06 09:40:54,244 - ERROR: Critical Analysis failed for engineer eng1@gmail.com: 'summary'
+2025-11-06 09:43:36,221 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 09:43:39,519 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 09:43:39,521 - INFO: GPT-4o Vision responded in 3.30s
+2025-11-06 09:43:39,522 - ERROR: JSON Parsing failed after AI response: Expecting value: line 1 column 1 (char 0)
+2025-11-06 09:44:17,611 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 09:44:29,970 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 09:44:29,972 - INFO: GPT-4o Vision responded in 12.36s
+2025-11-06 09:44:29,974 - INFO: Session 95ec7041-b0cb-4b5f-9492-28441a666bec saved with TTL set to 3600s.
+2025-11-06 09:59:57,665 - INFO: Application shutdown.
+2025-11-06 09:59:58,332 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 09:59:58,333 - INFO: Successfully connected to Redis.
+2025-11-06 10:00:32,948 - INFO: Application shutdown.
+2025-11-06 10:00:33,635 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 10:00:33,636 - INFO: Successfully connected to Redis.
+2025-11-06 10:00:59,123 - INFO: Application shutdown.
+2025-11-06 10:00:59,783 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 10:00:59,784 - INFO: Successfully connected to Redis.
+2025-11-06 10:03:04,109 - INFO: Application shutdown.
+2025-11-06 10:03:04,789 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 10:03:04,790 - INFO: Successfully connected to Redis.
+2025-11-06 10:04:30,453 - INFO: Session 95ec7041-b0cb-4b5f-9492-28441a666bec: Sending 3 messages to GPT-4o...
+2025-11-06 10:04:32,200 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 10:04:32,211 - INFO: Session 95ec7041-b0cb-4b5f-9492-28441a666bec saved with TTL set to 3600s.
+2025-11-06 10:04:59,425 - INFO: Session 95ec7041-b0cb-4b5f-9492-28441a666bec: Sending 5 messages to GPT-4o...
+2025-11-06 10:05:01,018 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 10:05:01,025 - INFO: Session 95ec7041-b0cb-4b5f-9492-28441a666bec saved with TTL set to 3600s.
+2025-11-06 10:07:01,365 - INFO: Session 95ec7041-b0cb-4b5f-9492-28441a666bec: Sending 7 messages to GPT-4o...
+2025-11-06 10:07:03,578 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 10:07:03,583 - INFO: Session 95ec7041-b0cb-4b5f-9492-28441a666bec saved with TTL set to 3600s.
+2025-11-06 10:15:09,189 - INFO: Application shutdown.
+2025-11-06 10:44:24,635 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 10:44:24,636 - INFO: Successfully connected to Redis.
+2025-11-06 10:46:59,122 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 10:46:59,190 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 10:46:59,318 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 10:46:59,527 - INFO: Analyzing text-based report with GPT-4o...
+2025-11-06 10:47:11,631 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 10:47:11,644 - INFO: Session 577fef97-d51d-4f29-a12d-0b1deef8122f saved with TTL set to 3600s.
+2025-11-06 10:47:11,644 - ERROR: Critical Analysis failed for engineer eng1@gmail.com: 'summary'
+2025-11-06 10:52:49,424 - INFO: Application shutdown.
+2025-11-06 10:52:50,072 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 10:52:50,073 - INFO: Successfully connected to Redis.
+2025-11-06 10:53:27,806 - INFO: Application shutdown.
+2025-11-06 10:53:28,467 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 10:53:28,468 - INFO: Successfully connected to Redis.
+2025-11-06 10:54:29,373 - INFO: Application shutdown.
+2025-11-06 10:54:30,038 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 10:54:30,039 - INFO: Successfully connected to Redis.
+2025-11-06 10:54:37,794 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 10:54:37,860 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 10:54:37,986 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 10:54:38,193 - INFO: Analyzing text-based report with GPT-4o...
+2025-11-06 10:54:50,561 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 10:54:50,578 - INFO: Session 5fed5dfd-1cbc-40ec-a8dc-eb3a7cdd90d6 saved with TTL set to 3600s.
+2025-11-06 10:55:51,925 - INFO: Session 5fed5dfd-1cbc-40ec-a8dc-eb3a7cdd90d6: Sending 3 messages to GPT-4o...
+2025-11-06 10:55:58,379 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 10:55:58,384 - INFO: Session 5fed5dfd-1cbc-40ec-a8dc-eb3a7cdd90d6 saved with TTL set to 3600s.
+2025-11-06 10:56:42,421 - INFO: Session 5fed5dfd-1cbc-40ec-a8dc-eb3a7cdd90d6: Sending 5 messages to GPT-4o...
+2025-11-06 10:56:45,224 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 10:56:45,238 - INFO: Session 5fed5dfd-1cbc-40ec-a8dc-eb3a7cdd90d6 saved with TTL set to 3600s.
+2025-11-06 10:57:08,435 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 10:57:11,966 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 10:57:11,967 - INFO: GPT-4o Vision responded in 3.53s
+2025-11-06 10:57:11,968 - ERROR: AI response did not contain a valid JSON block: I'm unable to analyze this image as it doesn't contain a car inspection report. Please provide a val...
+2025-11-06 10:57:34,924 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 10:57:38,420 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 10:57:38,422 - INFO: GPT-4o Vision responded in 3.50s
+2025-11-06 10:57:38,423 - ERROR: AI response did not contain a valid JSON block: I'm unable to analyze this image as it doesn't contain a car inspection report. Please provide a val...
+2025-11-06 10:58:05,405 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 10:58:15,426 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 10:58:15,428 - INFO: GPT-4o Vision responded in 10.02s
+2025-11-06 10:58:15,430 - INFO: Session 17132f0a-4ac5-40fc-b561-4a4559596b49 saved with TTL set to 3600s.
+2025-11-06 10:58:44,634 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 10:58:47,036 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 10:58:47,038 - INFO: GPT-4o Vision responded in 2.40s
+2025-11-06 10:58:47,039 - ERROR: AI response did not contain a valid JSON block: I'm unable to analyze the image as it doesn't contain a car inspection report. Please provide a vali...
+2025-11-06 11:02:05,729 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 11:02:10,111 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 11:02:10,112 - INFO: GPT-4o Vision responded in 4.38s
+2025-11-06 11:02:10,114 - INFO: Session bdf5b000-c3cb-45fc-8449-d11d58255049 saved with TTL set to 3600s.
+2025-11-06 11:05:58,428 - INFO: Application shutdown.
+2025-11-06 11:05:59,069 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 11:05:59,070 - INFO: Successfully connected to Redis.
+2025-11-06 11:06:54,056 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 11:06:57,162 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 11:06:57,168 - INFO: GPT-4o Vision responded in 3.11s
+2025-11-06 11:06:57,168 - ERROR: AI response did not contain a valid JSON block: I'm unable to analyze or transcribe text from the image directly. Please provide the text details fr...
+2025-11-06 11:07:01,888 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 11:07:06,661 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 11:07:06,664 - INFO: GPT-4o Vision responded in 4.78s
+2025-11-06 11:07:06,666 - INFO: Session 9c545b99-9c2b-4e0e-b512-67591a60a9e9 saved with TTL set to 3600s.
+2025-11-06 11:07:15,509 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 11:07:19,302 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 11:07:19,303 - INFO: GPT-4o Vision responded in 3.79s
+2025-11-06 11:07:19,303 - ERROR: AI response did not contain a valid JSON block: I'm unable to analyze this image as it doesn't contain a car inspection report. Please provide an im...
+2025-11-06 11:07:22,673 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 11:07:25,864 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 11:07:25,866 - INFO: GPT-4o Vision responded in 3.19s
+2025-11-06 11:07:25,866 - ERROR: AI response did not contain a valid JSON block: I'm unable to analyze the image as it doesn't contain a car inspection report. Please provide a vali...
+2025-11-06 11:08:08,211 - INFO: Application shutdown.
+2025-11-06 11:08:08,849 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 11:08:08,851 - INFO: Successfully connected to Redis.
+2025-11-06 11:08:18,583 - INFO: Application shutdown.
+2025-11-06 11:29:57,756 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 11:29:57,758 - INFO: Successfully connected to Redis.
+2025-11-06 11:30:41,059 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 11:30:41,126 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 11:30:41,254 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 11:30:41,461 - INFO: Analyzing text-based report with GPT-4o...
+2025-11-06 11:30:51,109 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 11:30:51,116 - INFO: Session 00078e54-39ca-4752-b630-490b1b7d25d4 saved with TTL set to 3600s.
+2025-11-06 11:37:38,474 - INFO: Application shutdown.
+2025-11-06 11:38:18,050 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 11:38:18,051 - INFO: Successfully connected to Redis.
+2025-11-06 11:40:52,982 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 11:40:53,049 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 11:40:53,172 - WARNING: Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2025-11-06 11:40:53,378 - INFO: Analyzing text-based report with GPT-4o...
+2025-11-06 11:41:05,649 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 11:41:05,665 - INFO: Session 710d187d-af26-49ff-a626-78f4c7aa39b6 saved with TTL set to 3600s.
+2025-11-06 13:32:11,297 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 13:32:11,299 - INFO: Successfully connected to Redis.
+2025-11-06 13:35:09,304 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 13:35:15,034 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 13:35:15,052 - INFO: GPT-4o Vision responded in 5.75s
+2025-11-06 13:35:15,055 - INFO: Session b3f3d4fb-7ed5-40ed-86df-8087f22bfa9e saved with TTL set to 3600s.
+2025-11-06 13:36:22,131 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 13:36:26,430 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 13:36:26,432 - INFO: GPT-4o Vision responded in 4.30s
+2025-11-06 13:36:26,433 - INFO: Session d2c44fa1-d286-406e-8b21-670ea1a43cef saved with TTL set to 3600s.
+2025-11-06 13:37:24,302 - INFO: Session d2c44fa1-d286-406e-8b21-670ea1a43cef: Sending 3 messages to GPT-4o...
+2025-11-06 13:37:26,187 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 13:37:26,193 - INFO: Session d2c44fa1-d286-406e-8b21-670ea1a43cef saved with TTL set to 3600s.
+2025-11-06 13:49:22,777 - INFO: Application shutdown.
+2025-11-06 15:23:05,340 - ERROR: Failed to create database tables: (psycopg2.OperationalError) connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "scanno_user"
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "scanno_user"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-06 15:23:05,341 - INFO: Successfully connected to Redis.
+2025-11-06 15:27:35,929 - INFO: Application shutdown.
+2025-11-06 15:27:38,722 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:27:38,724 - INFO: Successfully connected to Redis.
+2025-11-06 15:30:24,546 - INFO: Analyzing text-based report with GPT-4o...
+2025-11-06 15:31:32,122 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 15:31:32,143 - INFO: Session ce1e25e1-7e29-48d7-a070-b0374e7b52ff saved with TTL set to 3600s.
+2025-11-06 15:32:41,734 - INFO: Session ce1e25e1-7e29-48d7-a070-b0374e7b52ff: Sending 3 messages to GPT-4o...
+2025-11-06 15:32:48,279 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 15:32:48,286 - INFO: Session ce1e25e1-7e29-48d7-a070-b0374e7b52ff saved with TTL set to 3600s.
+2025-11-06 15:33:00,217 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 15:33:09,622 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 15:33:09,624 - INFO: GPT-4o Vision responded in 9.41s
+2025-11-06 15:33:09,626 - INFO: Session 65a66d51-a9e8-4dff-96a0-9dc71da8e788 saved with TTL set to 3600s.
+2025-11-06 15:33:41,602 - INFO: Session ce1e25e1-7e29-48d7-a070-b0374e7b52ff: Sending 5 messages to GPT-4o...
+2025-11-06 15:33:46,916 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 15:33:46,919 - INFO: Session ce1e25e1-7e29-48d7-a070-b0374e7b52ff saved with TTL set to 3600s.
+2025-11-06 15:34:01,740 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 15:34:04,758 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 15:34:04,760 - INFO: GPT-4o Vision responded in 3.02s
+2025-11-06 15:34:04,764 - INFO: Session c9fa1e2c-12a9-4587-a10f-4f62059789f6 saved with TTL set to 3600s.
+2025-11-06 15:34:11,805 - INFO: Session ce1e25e1-7e29-48d7-a070-b0374e7b52ff: Sending 7 messages to GPT-4o...
+2025-11-06 15:34:18,064 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 15:34:18,070 - INFO: Session ce1e25e1-7e29-48d7-a070-b0374e7b52ff saved with TTL set to 3600s.
+2025-11-06 15:39:20,271 - INFO: Application shutdown.
+2025-11-06 15:39:20,966 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:39:20,968 - INFO: Successfully connected to Redis.
+2025-11-06 15:39:52,468 - INFO: Application shutdown.
+2025-11-06 15:39:53,162 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:39:53,163 - INFO: Successfully connected to Redis.
+2025-11-06 15:40:12,825 - INFO: Application shutdown.
+2025-11-06 15:40:13,529 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:40:13,530 - INFO: Successfully connected to Redis.
+2025-11-06 15:41:07,001 - INFO: Application shutdown.
+2025-11-06 15:41:07,724 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:41:07,725 - INFO: Successfully connected to Redis.
+2025-11-06 15:41:55,879 - INFO: Application shutdown.
+2025-11-06 15:41:56,583 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:41:56,584 - INFO: Successfully connected to Redis.
+2025-11-06 15:42:05,413 - INFO: Application shutdown.
+2025-11-06 15:42:06,117 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:42:06,118 - INFO: Successfully connected to Redis.
+2025-11-06 15:42:27,292 - INFO: Application shutdown.
+2025-11-06 15:42:27,980 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:42:27,981 - INFO: Successfully connected to Redis.
+2025-11-06 15:42:36,008 - INFO: Application shutdown.
+2025-11-06 15:42:36,729 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:42:36,730 - INFO: Successfully connected to Redis.
+2025-11-06 15:43:14,555 - INFO: Application shutdown.
+2025-11-06 15:43:15,273 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:43:15,274 - INFO: Successfully connected to Redis.
+2025-11-06 15:43:32,132 - INFO: Application shutdown.
+2025-11-06 15:43:32,841 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:43:32,842 - INFO: Successfully connected to Redis.
+2025-11-06 15:43:59,329 - INFO: Application shutdown.
+2025-11-06 15:44:00,024 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:44:00,025 - INFO: Successfully connected to Redis.
+2025-11-06 15:44:45,676 - INFO: Application shutdown.
+2025-11-06 15:44:46,375 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:44:46,376 - INFO: Successfully connected to Redis.
+2025-11-06 15:45:48,471 - INFO: Application shutdown.
+2025-11-06 15:45:49,166 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:45:49,167 - INFO: Successfully connected to Redis.
+2025-11-06 15:49:07,289 - INFO: Application shutdown.
+2025-11-06 15:49:08,024 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:49:08,026 - INFO: Successfully connected to Redis.
+2025-11-06 15:49:49,160 - INFO: Application shutdown.
+2025-11-06 15:49:49,794 - INFO: SQLAlchemy database tables created/verified.
+2025-11-06 15:49:49,795 - INFO: Successfully connected to Redis.
+2025-11-06 15:51:36,614 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 15:51:39,366 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 15:51:39,379 - INFO: GPT-4o Vision responded in 2.77s
+2025-11-06 15:51:39,379 - ERROR: AI response did not contain a valid JSON block: I'm unable to process the image directly. Please provide the text details from the car inspection re...
+2025-11-06 15:51:58,040 - INFO: Sending image to GPT-4o Vision...
+2025-11-06 15:52:06,221 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 15:52:06,223 - INFO: GPT-4o Vision responded in 8.18s
+2025-11-06 15:52:06,224 - INFO: Session 42f7f38a-33be-42af-bdbf-cf14e914e328 saved with TTL set to 3600s.
+2025-11-06 15:52:35,649 - INFO: Session 42f7f38a-33be-42af-bdbf-cf14e914e328: Sending 3 messages to GPT-4o...
+2025-11-06 15:52:39,797 - INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-06 15:52:39,802 - INFO: Session 42f7f38a-33be-42af-bdbf-cf14e914e328 saved with TTL set to 3600s.
